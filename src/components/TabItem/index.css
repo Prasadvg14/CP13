@@ -1,0 +1,23 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+
+.act-btn {
+  color: #2563eb;
+  background-color: none;
+  font-size: 16px;
+  border: none;
+  border-bottom: 1px solid #2563eb;
+  margin: 9px;
+  cursor: pointer;
+}
+
+.norm-btn {
+  background-color: none;
+  border: none;
+  color: #7b8794;
+  font-size: 16px;
+  margin: 10px;
+  cursor: pointer;
+}
